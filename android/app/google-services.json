@@ -1,0 +1,162 @@
+{
+  "project_info": {
+    "project_number": "148982236938",
+    "project_id": "crud-agenda6",
+    "storage_bucket": "crud-agenda6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148982236938:android:08e092789260986b391cf3",
+        "android_client_info": {
+          "package_name": "com.example.adsa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148982236938-puq7mnnjd7v69np135hff3a5asbm3kou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGyCnp6f4ruzmr3-hoe-efE7lsxXsqBg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148982236938-puq7mnnjd7v69np135hff3a5asbm3kou.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "148982236938-0cvlc5i7r9rspqqdk2k1janlc6ob4mdn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.agenda6"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148982236938:android:bdafc34e5b0349c8391cf3",
+        "android_client_info": {
+          "package_name": "com.example.agenda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148982236938-puq7mnnjd7v69np135hff3a5asbm3kou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGyCnp6f4ruzmr3-hoe-efE7lsxXsqBg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148982236938-puq7mnnjd7v69np135hff3a5asbm3kou.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "148982236938-0cvlc5i7r9rspqqdk2k1janlc6ob4mdn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.agenda6"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148982236938:android:53a0447631810bed391cf3",
+        "android_client_info": {
+          "package_name": "com.example.agenda6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148982236938-2b361eng5vkip210lm1puae0u01q9emp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agenda6",
+            "certificate_hash": "46c6cf8648a9ed239ae740e6180fd11a1ec041fc"
+          }
+        },
+        {
+          "client_id": "148982236938-puq7mnnjd7v69np135hff3a5asbm3kou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGyCnp6f4ruzmr3-hoe-efE7lsxXsqBg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148982236938-puq7mnnjd7v69np135hff3a5asbm3kou.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "148982236938-0cvlc5i7r9rspqqdk2k1janlc6ob4mdn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.agenda6"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148982236938:android:843424c12a5c2a2b391cf3",
+        "android_client_info": {
+          "package_name": "com.example.agoravai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148982236938-puq7mnnjd7v69np135hff3a5asbm3kou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGyCnp6f4ruzmr3-hoe-efE7lsxXsqBg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148982236938-puq7mnnjd7v69np135hff3a5asbm3kou.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "148982236938-0cvlc5i7r9rspqqdk2k1janlc6ob4mdn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.agenda6"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
